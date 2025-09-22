@@ -1,0 +1,53 @@
+ @media screen and (max-width:767px) {
+
+     .bbox {
+         position: relative;
+         right: 100px;
+     }
+
+     p {
+         display: none;
+     }
+
+     h1 {
+         font-size: 50px;
+         position: relative;
+         bottom: 130px;
+         left: 30px;
+     }
+
+
+     .img2 {
+         display: none;
+     }
+
+     .img3 {
+         height: 410px;
+         width: 350px;
+         position: relative;
+         left: 30px;
+         bottom: 20px;
+         cursor: pointer;
+     }
+
+     .b1 {
+         font-size: 26px;
+         position: relative;
+         right: 550px;
+         top: 50px;
+
+
+
+
+     }
+
+
+
+
+     span.news {
+         display: none;
+     }
+
+
+
+ }
