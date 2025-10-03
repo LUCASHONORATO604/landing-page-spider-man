@@ -16,6 +16,9 @@
          left: 30px;
      }
 
+     .img1 {
+         height: 50px;
+     }
 
      .img2 {
          display: none;
@@ -36,18 +39,30 @@
          right: 550px;
          top: 50px;
 
-
-
-
      }
 
-
-
-
-     span.news {
+     .b1 {
          display: none;
      }
 
+
+     .b2 {
+         position: relative;
+         left: 30px;
+         top: 30px;
+         font-size: 27px;
+     }
+
+
+     .b3 {
+         font-size: 22px;
+         height: 50px;
+         width: 180px;
+         position: relative;
+         bottom: 17px;
+         left: 240px;
+         border: none;
+     }
 
 
  }
